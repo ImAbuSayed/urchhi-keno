@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/urchhi-keno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Urchhi Keno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/urchhi-keno/) |
+| **Get License** | [Commercial Licensing for Urchhi Keno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/urchhi-keno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a5bddb2f4ca5820d812ee768c387dd3bf6983397e2c57ff8ff42c36c8d9b806b` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

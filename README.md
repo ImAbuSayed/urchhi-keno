@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/urchhi-keno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Urchhi Keno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/urchhi-keno/) |
+| **Get License** | [Official Music Licensing for Urchhi Keno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/urchhi-keno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> উড়ছি কেন আজ এই নিঝুম কালো রাতে
+> মাতাল হাওয়া বয় শুধু তোমারই ইশারাতে
+> অচিন দেশে আজ আমি খুঁজি তোমার ছায়া
+> জড়িয়ে আছে মন জুড়ে তোমারই এই মায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
